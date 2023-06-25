@@ -4,6 +4,7 @@
 # Comparing Depression Rates In New York City and State
 ## Goal 
 ### Compare the self-reported depression diagnoses in New York City boroughs and how they differ from other counties in the state.
+### The webpage for the project can be found [here](https://coralmurphy3.github.io/Project-1/). 
 ## Findings
 ### In New York City, the highest percentage of depression diagnoses was in Manhattan, with about 19 percent of residents reporting they’ve been diagnosed with depression.
 ## Summary of data collection process 
